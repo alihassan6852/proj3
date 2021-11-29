@@ -1,0 +1,187 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Comforter Brush', cursive;
+}
+body{
+    background-color: rgb(205, 232, 248);
+}
+
+
+
+
+
+
+.main-table{
+    display: table;
+
+    
+   
+}
+
+.table-row{
+    display: table-row;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.table-cell{
+    display: table-cell;
+    width: 150px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 40px;
+   
+   
+    border-bottom: 1px solid rgb(205, 232, 248);
+}
+.c2
+{
+   width:120px;
+ 
+}
+.c6
+{
+    width:180px;
+}
+
+.c3
+{
+   width: 300px;
+}
+.grn
+{
+    color: rgb(11, 204, 11);
+    background-color: rgb(220, 253, 220);
+    width: 100px;
+    font-weight:bolder ;
+    margin-left: 150px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+.bl{
+    color:rgb(25, 158, 211);
+    background-color: rgb(212, 233, 253);
+    width: 100px;
+    font-weight:bolder ;
+    margin-left: 150px;
+    font-size: 12px;
+    border-radius: 10px;
+}
+.yel{
+    color: rgb(235, 198, 34);
+    background-color: rgb(246, 252, 223);
+    width: 150px;
+    font-weight:bolder ;
+    margin-left: 150px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+.c4{
+    text-align: right;
+}
+
+.gc
+{
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    background-color: rgb(11, 204, 11) ;
+    display: inline-block;
+}
+.bc
+{
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    background-color: rgb(25, 158, 211) ;
+    display: inline-block;
+}
+.yc
+{
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    background-color: rgb(235, 198, 34) ;
+    display: inline-block;
+}
+.filter
+{
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    width: 140px;
+    
+    
+}
+.tick
+{
+   color: rgb(18, 184, 156);
+   background-color: lime;
+   
+}
+.bgg
+{
+    background-color: #f8f8f8;
+    
+}
+.fil
+{
+    border-radius: 50px;
+    border:solid lightgray;
+    background-color: white;
+    width:250px;
+    margin-left: 20px;
+}
+.ficon{
+    margin-left: 20px;
+    
+}
+.slider
+{
+    background-color: rgb(206, 206, 206);
+    width: 30px;
+    height: 25px;
+    border-radius: 50px;
+    padding-left: 13px;
+    padding-top: 10px;
+}
+button
+{
+    background-color: blue;
+    color: white;
+    padding:10px 20px;
+    border-radius: 30px;
+}
+.bar{
+    display: inline-block;
+}
+.btn
+{
+    margin-left: 820px;
+}
+.table
+{
+    background-color: white; 
+    display: inline-block;
+    border-radius: 10px;
+    margin:100px  300px;
+    padding: 20px 20px;
+    
+}
+.dot
+{
+    margin-left: 10px;
+    color: #a1a1a1;
+}
+.shade
+{
+    box-shadow: 2px 2px 20px rgb(207, 206, 206),
+                -2px -2px 20px rgb(212, 212, 212);
+                display: inline-block;
+                background-color: white;
+                border-radius: 10px;
+}
